@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	private String age;
+	private char sex;
 	private String name;
 	public static void main(String[] args) {
 
